@@ -127,6 +127,10 @@ namespace Fungus
             // Dialog always starts invisible, will be faded in when writing starts
             GetCanvasGroup().alpha = 0f;
 
+
+            // ADDED BY CONNOR. Makes the canvas world space.
+            GetComponent<Canvas>().renderMode = RenderMode.WorldSpace;
+
             // Add a raycaster if none already exists so we can handle dialog input
             GraphicRaycaster raycaster = GetComponent<GraphicRaycaster>();
             if (raycaster == null)

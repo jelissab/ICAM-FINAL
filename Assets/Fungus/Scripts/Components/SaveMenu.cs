@@ -105,7 +105,7 @@ namespace Fungus
             // Hide the Save and Load buttons if autosave is on
 
             bool showSaveAndLoad = !autoSave;
-            if (saveButton.IsActive() != showSaveAndLoad)
+            if (saveButton != null && saveButton.IsActive() != showSaveAndLoad)
             {
                 saveButton.gameObject.SetActive(showSaveAndLoad);
                 loadButton.gameObject.SetActive(showSaveAndLoad);
