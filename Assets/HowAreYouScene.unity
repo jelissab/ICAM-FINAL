@@ -53885,11 +53885,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -2710.2883, y: -409.44653}
+  scrollPos: {x: -2551.1414, y: -654.41614}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 204
-  zoom: 0.64
+  zoom: 0.8199998
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -53897,9 +53897,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 718333806}
+  - {fileID: 718333797}
   selectedCommands:
-  - {fileID: 718333919}
+  - {fileID: 718333998}
   variables: []
   description: 
   stepPause: 0
@@ -68755,7 +68755,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 861
   blockName: Everything
-  description: 
+  description: ok
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 718333999}
@@ -68804,7 +68804,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 860
   blockName: Body
-  description: 
+  description: ok
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 718333861}
@@ -68824,10 +68824,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 866
   indentLevel: 0
-  text: Too skinny
+  text: Too skinny.
   description: 
   targetBlock: {fileID: 718333801}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -68853,7 +68853,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 867
   blockName: Too Skinny
-  description: 
+  description: ok
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 718333873}
@@ -68873,7 +68873,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 865
   indentLevel: 0
-  text: Too fat
+  text: Too fat.
   description: 
   targetBlock: {fileID: 718333803}
   hideIfVisited: 0
@@ -68902,7 +68902,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 868
   blockName: Too Fat
-  description: 
+  description: ok
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 718333859}
@@ -68922,10 +68922,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 873
   indentLevel: 0
-  text: I haven't tried
+  text: I haven't tried.
   description: 
   targetBlock: {fileID: 718333805}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -68977,7 +68977,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 961
   blockName: Tried Eating
-  description: 
+  description: ok
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 718333919}
@@ -69018,7 +69018,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 871
   indentLevel: 0
-  text: I've tried
+  text: I've tried.
   description: 
   targetBlock: {fileID: 718333809}
   hideIfVisited: 0
@@ -70550,7 +70550,7 @@ MonoBehaviour:
   text: I have tried
   description: 
   targetBlock: {fileID: 718333806}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -71226,7 +71226,7 @@ MonoBehaviour:
   text: I never gained weight
   description: 
   targetBlock: {fileID: 718333900}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -71275,7 +71275,7 @@ MonoBehaviour:
   text: I threw up.
   description: 
   targetBlock: {fileID: 718333902}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
