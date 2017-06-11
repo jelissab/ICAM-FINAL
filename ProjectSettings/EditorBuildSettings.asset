@@ -7,5 +7,10 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Scenes/Main.unity
-  - enabled: 1
+    guid: 23203d52fcae84949a0ef84a04c62222
+  - enabled: 0
     path: Assets/HowAreYouScene.unity
+    guid: 7902f06e1f29b4b3284ff03465ec9b8c
+  - enabled: 1
+    path: Assets/HowAreYouSceneWithTimer.unity
+    guid: 2f44a7aad2981a24f8dd1bc406eda723
